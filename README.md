@@ -12,14 +12,20 @@ Elect one of you to be the one that will document the requirment specs. They sho
 
 ## System Requirements 
 
-...
+* Should be a Web app that's able to run best/supported on latest Chrome version (version 117.0.5938.22)
+
 
 ## User Requirements 
 
 ### Functional 
 
-...
+* User should be able to double or triple a recipe.
+* User should be able to search or save recipes.
+* User should be able to narrow down a recipe a search by allergy or dietary restriction.
+
 
 ### Non-functional
 
-...
+* System should be able to multiply each ingredient amount accurately. (usability) 
+* System should have a user database with user/password login. (security)
+* System should let a logged in user access saved recipes. (reliability)
